@@ -10,7 +10,7 @@ This repository houses materials and resources for the Operation Big Farewell se
 [Krystina Ramos](https://linkedin.com/in/krystinaramos)
 
 ## License
-Operation Big Farewell by Krystina Ramos is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Operation Big Farewell by Krystina Ramos is licensed under the [Creative Commons Attribution Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Acknowledgements
 Thank you for listening and supporting this aspiration 🐔 
